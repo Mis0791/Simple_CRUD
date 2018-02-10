@@ -1,0 +1,10 @@
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/bin/Debug/netcoreapp2.0/Simple_CRUD.deps.json
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/bin/Debug/netcoreapp2.0/Simple_CRUD.runtimeconfig.json
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/bin/Debug/netcoreapp2.0/Simple_CRUD.runtimeconfig.dev.json
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/bin/Debug/netcoreapp2.0/Simple_CRUD.dll
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/bin/Debug/netcoreapp2.0/Simple_CRUD.pdb
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/obj/Debug/netcoreapp2.0/Simple_CRUD.csproj.CoreCompileInputs.cache
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/obj/Debug/netcoreapp2.0/Simple_CRUD.AssemblyInfoInputs.cache
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/obj/Debug/netcoreapp2.0/Simple_CRUD.AssemblyInfo.cs
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/obj/Debug/netcoreapp2.0/Simple_CRUD.dll
+/Users/michellesturgill/Desktop/Coding Dojo/C#/Assignments/Simple_CRUD/obj/Debug/netcoreapp2.0/Simple_CRUD.pdb
